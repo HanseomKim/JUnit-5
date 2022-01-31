@@ -1,4 +1,4 @@
-package com.java.JUnit5;
+package com.java.JUnit5.tag;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
